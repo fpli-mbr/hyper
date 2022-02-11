@@ -1458,8 +1458,8 @@ chokidar@^1.4.2, chokidar@^1.6.1, chokidar@^1.7.0:
     fsevents "^1.0.0"
 
 chownr@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.0.1.tgz#e2a75042a9551908bebd25b8523d5f9769d79181"
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.1.4.tgz#6fc9d7b42d32a583596337666e7d08084da2cc6b"
 
 chromium-pickle-js@^0.2.0:
   version "0.2.0"
@@ -6604,9 +6604,10 @@ xtend@~2.1.1:
   dependencies:
     object-keys "~0.4.0"
 
-xterm@chabou/xterm.js#7b741fe:
-  version "3.0.0-hyper.0"
-  resolved "https://codeload.github.com/chabou/xterm.js/tar.gz/7b741fe51ca8a2f1e4ddec771b3cc140581b3eef"
+xterm@chabou/xterm.js#95178dd:
+  version "3.0.0-hyper.1"
+  uid "95178dddcb7c9e88b3a9444188789696b41788d1"
+  resolved "https://codeload.github.com/chabou/xterm.js/tar.gz/95178dddcb7c9e88b3a9444188789696b41788d1"
 
 y18n@^3.2.1:
   version "3.2.1"

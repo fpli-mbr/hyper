@@ -5161,8 +5161,8 @@ q@^1.1.2, q@~1.5.0:
   resolved "https://registry.yarnpkg.com/q/-/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
 
 qs@~6.4.0:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.1.tgz#2bad97710a5b661c366b378b1e3a44a592ff45e6"
 
 qs@~6.5.1:
   version "6.5.1"
@@ -6604,9 +6604,10 @@ xtend@~2.1.1:
   dependencies:
     object-keys "~0.4.0"
 
-xterm@chabou/xterm.js#7b741fe:
-  version "3.0.0-hyper.0"
-  resolved "https://codeload.github.com/chabou/xterm.js/tar.gz/7b741fe51ca8a2f1e4ddec771b3cc140581b3eef"
+xterm@chabou/xterm.js#95178dd:
+  version "3.0.0-hyper.1"
+  uid "95178dddcb7c9e88b3a9444188789696b41788d1"
+  resolved "https://codeload.github.com/chabou/xterm.js/tar.gz/95178dddcb7c9e88b3a9444188789696b41788d1"
 
 y18n@^3.2.1:
   version "3.2.1"
